@@ -8,6 +8,11 @@ Pop the balloons using your body pose estimation.
     :target: https://github.com/mristin/pop-that-balloon-desktop/actions/workflows/ci.yml
     :alt: Continuous integration
 
+.. image:: https://media.githubusercontent.com/media/mristin/pop-that-balloon-desktop/main/screenshot-youtube.png
+    :alt: Screenshot Youtube
+    :target: https://www.youtube.com/watch?v=iWMSTYBdUTY
+
+
 Installation
 ============
 Download and unzip a version of the game from the `Releases`_.
